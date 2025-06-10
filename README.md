@@ -1,5 +1,5 @@
 <div align="center">
-    <h1><b>Docmost</b></h1>
+    <h1><b>La Demonia Docs</b></h1>
     <p>
         Open-source collaborative wiki and documentation software.
         <br />
